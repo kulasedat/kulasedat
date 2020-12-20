@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sedat Kula</h1>
-<h3 align="center">A passionate Researcher, Data Scientist and Analyst with significance experiences in delivering innovative public policies and machine learning algorithms in different settings</h3>
+<h3 align="center">A Passionate Researcher, Data Scientist and Analyst with significance experiences in delivering innovative public policies and machine learning algorithms in different settings</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulasedat&label=Profile%20views&color=0e75b6&style=flat" alt="kulasedat" /> </p>
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sedat-kula-ph-d-aa3a5bb9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sedat-kula-ph-d-aa3a5bb9/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sedatkula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sedatkula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sedat-kula-ph-d-aa3a5bb9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sedat-kula-ph-d-aa3a5bb9/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sedatkula" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/sedatkula" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
