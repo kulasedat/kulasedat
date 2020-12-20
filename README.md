@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Natural Language Processing (NLP)**
 
+- 🔭 I’m currently working on **Customer Segmentation (Clustering)**
+
 - 🌱 I’m currently learning **Deep Learning, Neural Networks**
 
 - 👯 I’m looking to collaborate on **NLP Projects & Twitter Analytics**
