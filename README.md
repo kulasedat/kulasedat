@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulasedat&label=Profile%20views&color=0e75b6&style=flat" alt="kulasedat" /> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing (NLP)**
+- 🔭 I’m currently working on **Deep Learning**
 
-- 🔭 I’m currently working on **Customer Segmentation (Clustering)**
+- 🔭 I’m currently working on **NLP**
 
 - 🌱 I’m currently learning **Deep Learning, Neural Networks**
 
