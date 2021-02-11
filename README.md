@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulasedat&label=Profile%20views&color=0e75b6&style=flat" alt="kulasedat" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning with Keras API**
+- 🔭 I’m currently working on **Time Series Analayis with LSTM**
 
 - 👯 I’m looking to collaborate on **NLP**
 
