@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NLP**
 
-- 🤝 I’m looking for help with **ML Flow**
+- 🤝 I’m looking for help with **Kubernetes**
 
 - 💬 Ask me about **Python, Tableau, Microsoft Google Sheets, MySQL, Microsoft SQL Server, Structural Equation Modelling(SEM), JIRA, SPSS**
 
