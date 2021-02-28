@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Docker & Kubernetes**
 
-- 💬 Ask me about **Python, Tableau, Microsoft Google Sheets, MySQL, Microsoft SQL Server, Structural Equation Modelling(SEM), JIRA, SPSS, Streamlit**
+- 💬 Ask me about **Python, R, Tableau, Microsoft Google Sheets, MySQL, Microsoft SQL Server, Structural Equation Modelling(SEM), JIRA, SPSS, Streamlit**
 
 - 📫 How to reach me **sedatkula2045@gmail.com**
 
