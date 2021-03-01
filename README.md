@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning with Keras API**
 
-- 🌱 I’m currently learning **Time Series Analysis with LSTM**
+- 🌱 I’m currently learning **Fraud Detection with Imbalanced Data**
 
 - 👯 I’m looking to collaborate on **NLP**
 
