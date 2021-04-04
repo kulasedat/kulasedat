@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Convolutional Neural Network in TensorFlow**
 
-- 👯 I’m looking to collaborate on **NLP**
+- 👯 I’m looking to collaborate on **Hive & Impala**
 
 - 🤝 I’m looking for help with **Docker & Kubernetes**
 
