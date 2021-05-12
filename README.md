@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning with Keras API**
 
-- 🌱 I’m currently learning **Convolutional Neural Network in TensorFlow**
+- 🌱 I’m currently learning **Alteryx**
 
 - 👯 I’m looking to collaborate on **Hive & Impala**
 
